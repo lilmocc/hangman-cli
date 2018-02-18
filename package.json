@@ -1,0 +1,26 @@
+{
+  "name": "hangman-cli-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilmocc/hangman-cli.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "lissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilmocc/hangman-cli/issues"
+  },
+  "homepage": "https://github.com/lilmocc/hangman-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "inquirer": "^5.1.0"
+  }
+}
